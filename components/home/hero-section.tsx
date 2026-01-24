@@ -1,7 +1,6 @@
-"use client"
 
 import Link from "next/link"
-import { ArrowRight, GalleryHorizontal } from "lucide-react"
+import { GalleryHorizontal } from "lucide-react"
 
 export default function HeroSection() {
   return (

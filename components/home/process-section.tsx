@@ -1,7 +1,5 @@
-"use client"
 
 import Link from "next/link"
-import { PencilLine, PaintRoller, Building2 } from "lucide-react"
 
 export default function ProcessSection() {
     return (

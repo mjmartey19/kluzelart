@@ -1,4 +1,3 @@
-"use client"
 
 import HeroSection from '@/components/home/hero-section'
 import PhilosophySection from '@/components/home/philosophy-section'

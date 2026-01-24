@@ -1,4 +1,3 @@
-"use client"
 
 import { Mail, Instagram, Send } from "lucide-react"
 

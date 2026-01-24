@@ -1,4 +1,3 @@
-"use client"
 
 import { Palette, PenTool, Store } from "lucide-react"
 import Image from "next/image"
