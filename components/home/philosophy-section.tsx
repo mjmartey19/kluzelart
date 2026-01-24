@@ -4,7 +4,7 @@ export default function PhilosophySection() {
         <section id="philosophy" className="py-32 relative">
             <div className="max-w-7xl mx-auto px-6">
                 <div className="grid lg:grid-cols-12 gap-16 items-start">
-                    <div className="lg:col-span-5 fade-up sticky top-32 self-start">
+                    <div className="lg:col-span-5 sticky top-32 self-start">
                         <h2 className="text-4xl md:text-5xl font-medium tracking-tighter mb-8 leading-[1.1] text-white font-sans">
                             Every surface is a<br />
                             <span className="text-neutral-500 font-sans">potential canvas.</span>
